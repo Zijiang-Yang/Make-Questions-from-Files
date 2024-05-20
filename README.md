@@ -1,3 +1,3 @@
 # give_exam_questions
 
-出题
+Making questions according to specific knowledge files with LLM.
